@@ -18,6 +18,6 @@
 - 👩🏼‍💻 I am fascinated by finance and here I develop tools to help me with my studies.
 - 📫 How to reach me: [@emesonfilho](https://www.linkedin.com/in/%C3%A9meson-de-sousa-622037180/);
 
-<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beatrizsabbatini&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emesonfilho&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emesonfilho&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
