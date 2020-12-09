@@ -1,7 +1,7 @@
 ### Hi! I´m Émeson, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <hr>
 
-<p><em>Accounting student at <a target="_blank" href="http://www.ufc.br/">UFC </a><img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"></br>Controllership intern at <a target="_blank" href="http://www.grupofan.com/pt/grupo/" >Fan group </a><img src="https://media.giphy.com/media/26FPLMDDN5fJCir0A/giphy.gif" width="30"> 
+<p><em>Accounting student at <a target="_blank" href="http://www.ufc.br/">UFC </a><img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"></br>Controllership intern at <a target="_blank" href="http://www.grupofan.com/pt/grupo/" >Fan group </a><img src="https://media.giphy.com/media/W6dNNqyY6Cddza6iUj/giphy.gif" width="30"> 
 </em></p>
 
 <a href="https://www.linkedin.com/in/%C3%A9meson-de-sousa-622037180/">
