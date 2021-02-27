@@ -13,7 +13,9 @@
   <img align="left" alt="Émeson's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-* About me:
+<p> 
+  About me:
+</p>
 
 - 📚 I am currently studying at the business faculty of the Federal University of Ceará, accounting courses.
 - 👩🏼‍💻 I am fascinated by finance and here I develop tools to help me with my studies.
