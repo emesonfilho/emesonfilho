@@ -5,7 +5,6 @@
   
 </em></p>
 
-<p>
 <a href="https://www.linkedin.com/in/%C3%A9meson-de-sousa-622037180/">
   <img align="left" alt="Émeson's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" theme="Red"/>
 </a>
@@ -13,11 +12,8 @@
 <a href="https://www.instagram.com/emeson_filho/">
   <img align="left" alt="Émeson's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-</em></p>
 
-<p> 
-  About me:
-</p>
+About me:
 
 - 📚 I am currently studying at the business faculty of the Federal University of Ceará, accounting courses.
 - 👩🏼‍💻 I am fascinated by finance and here I develop tools to help me with my studies.
