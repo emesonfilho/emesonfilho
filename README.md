@@ -22,4 +22,4 @@ About me:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emesonfilho&show_icons=true&hide=contribs,issues,prs&theme=dark)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emesonfilho)](https://github.com/emesonfilho/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emesonfilho)](https://github.com/emesonfilho/github-readme-stats)
