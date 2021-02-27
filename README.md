@@ -8,7 +8,7 @@
 <div width="100%" style="position:relative;"><img  width="100%" src="https://user-images.githubusercontent.com/22732544/100836999-1556c180-344f-11eb-957e-8d4c7b54ee0a.gif"/></div>
 <hr>
 
-About me:
+More about me:
 
 - 📚 I am currently studying at the business faculty of the Federal University of Ceará, accounting courses.
 - 👩🏼‍💻 I am fascinated by finance and here I develop tools to help me with my studies.
