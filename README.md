@@ -22,8 +22,4 @@
 <a href="https://github.com/emesonfilho">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=emesonfilho&count_private=true&show_icons=true" alt="emesonfilho" />
 </a>
-<a href="https://github.com/emesonfilho">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=emesonfilho&layout=compact" alt="Émeson" />
-</a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emesonfilho&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
