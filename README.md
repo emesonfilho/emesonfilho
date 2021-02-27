@@ -2,16 +2,17 @@
 <hr>
 
 <p><em>Accounting student at <a target="_blank" href="http://www.ufc.br/">UFC </a><img src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif" width="40"></br>Controllership intern at <a target="_blank" href="http://www.grupofan.com/pt/grupo/" >Fan group </a><img src="https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif" width="60"> 
+  
 </em></p>
 
 <a href="https://www.linkedin.com/in/%C3%A9meson-de-sousa-622037180/">
-  <img align="left" alt="Émeson's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="Red"/>
+  <img align="left" alt="Émeson's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" theme="Red"/>
 </a>
 
 <a href="https://www.instagram.com/emeson_filho/">
   <img align="left" alt="Émeson's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<hr>
 **About me:**
 
 - 📚 I am currently studying at the business faculty of the Federal University of Ceará, accounting courses.
