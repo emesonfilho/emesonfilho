@@ -10,9 +10,8 @@ About me:
 - 📚 I am currently studying at the business faculty of the Federal University of Ceará, accounting courses.
 - 👩🏼‍💻 I am fascinated by finance and here I develop tools to help me with my studies.
 - 📫 How to reach me: 
->Linkedln - [@emesonfilho_linkedln](https://www.linkedin.com/in/%C3%A9meson-de-sousa-622037180/);
->Instagran [@emesonfilho_instagran](https://www.instagram.com/emesonsousa/?hl=pt-br);
-
+    Linkedln - [@emesonfilho_linkedln](https://www.linkedin.com/in/%C3%A9meson-de-sousa-622037180/)
+    Instagran [@emesonfilho_instagran](https://www.instagram.com/emesonsousa/?hl=pt-br);
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emesonfilho&show_icons=true&hide=contribs,issues,prs&theme=dark)
 
