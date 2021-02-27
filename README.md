@@ -5,15 +5,15 @@
   
 </em></p>
 
-<p> 
-  <a href="https://www.linkedin.com/in/%C3%A9meson-de-sousa-622037180/">
-    <img align="left" alt="Émeson's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" theme="Red"/>
-  </a>
-</p>
+<p>
+<a href="https://www.linkedin.com/in/%C3%A9meson-de-sousa-622037180/">
+  <img align="left" alt="Émeson's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" theme="Red"/>
+</a>
 
 <a href="https://www.instagram.com/emeson_filho/">
   <img align="left" alt="Émeson's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+</em></p>
 
 <p> 
   About me:
