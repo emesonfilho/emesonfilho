@@ -19,7 +19,6 @@
 - 📫 How to reach me: [@emesonfilho](https://www.linkedin.com/in/%C3%A9meson-de-sousa-622037180/);
 
 
-<a href="https://github.com/emesonfilho">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=emesonfilho&count_private=true&show_icons=true" alt="emesonfilho" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emesonfilho&show_icons=true&theme=radical)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emesonfilho&repo=github-readme-stats)](https://github.com/emesonfilho/github-readme-stats)
