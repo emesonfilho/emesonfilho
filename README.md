@@ -20,3 +20,6 @@ More about me:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emesonfilho&show_icons=true&hide=contribs,issues,prs&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emesonfilho&theme=dark)](https://github.com/emesonfilho/github-readme-stats)
+
+![Snake animation](https://github.com/emesonfilho/emesonfilho/blob/output/github-contribution-grid-snake.svg)
+
