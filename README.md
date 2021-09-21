@@ -16,10 +16,12 @@ More about me:
     >Linkedln - [@emesonfilho_linkedin](https://www.linkedin.com/in/%C3%A9meson-de-sousa-622037180/)
     >
     >Instagran - [@emesonfilho_instagram](https://www.instagram.com/emesonsousa/?hl=pt-br)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emesonfilho&show_icons=true&hide=contribs,issues,prs&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emesonfilho&theme=dark)](https://github.com/emesonfilho/github-readme-stats)
+<div>
+    
+<img height="180em" src = "https://github-readme-stats.vercel.app/api?username=emesonfilho&show_icons=true&hide=contribs,issues,prs&theme=dark"/>
+<img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emesonfilho&theme=dark"/>
+    
+</div>
 
 ![Snake animation](https://github.com/emesonfilho/emesonfilho/blob/output/github-contribution-grid-snake.svg)
 
