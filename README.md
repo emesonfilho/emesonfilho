@@ -1,7 +1,7 @@
 ### Hi! I´m Émeson, and welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p>
-<em>Accounting student at <a target="_blank" href="http://www.ufc.br/">UFC </a><img src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif" width="40"></br>Audit Trainee at <a target="_blank" href="https://home.kpmg/br/pt/home.html" > KPMG </a><img src="https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif" width="60">   
+<em>Accounting student at <a target="_blank" href="http://www.ufc.br/">UFC </a><img src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif" width="40"></br>Senior Audit at <a target="_blank" href="https://home.kpmg/br/pt/home.html" > KPMG </a><img src="https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif" width="60">   
 </em></p>
 
 <hr>
